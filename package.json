@@ -1,0 +1,19 @@
+{
+  "name": "passport_authenication",
+  "version": "1.0.0",
+  "description": "Autheniction using Passport Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishuchhabra/Authentication-Passport-.git"
+  },
+  "author": "Vishu Chhabra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishuchhabra/Authentication-Passport-/issues"
+  },
+  "homepage": "https://github.com/vishuchhabra/Authentication-Passport-#readme"
+}
